@@ -156,7 +156,7 @@
          filter blur-[150px] pointer-events-none z-[-1] right-[10px]'>
 
         </div>
-        <div class="bg-[#D9D9D90D] lg:p-[80px] p-[60px] lg:w-[80%] w-[60%] mx-auto rounded-[30px]">
+        <div class="bg-[#D9D9D90D] lg:p-[80px] p-[60px] w-[80%] mx-auto rounded-[30px]">
             <div class="flex lg:flex-row flex-col justify-between items-center lg:gap-0 gap-[20px]">
                 <div class="flex flex-col items-center text-[#ffffff]">
                     <p class="lg:text-[48px] text-[36px] font-bold">100+</p>

@@ -48,7 +48,7 @@
                     <div class="col-lg-2 col-md-6 col-6">
                         <div class="vl-logo">
                             <a href="index.html" class="header1-logo-block"><img src="assets/logo.svg" alt=""
-                                    class="lg:w-[286px] w-[195px] lg:h-[69px] h-[47px]"></a>
+                                    class="lg:w-[286px] w-[194px] lg:h-[69px] h-[47px]"></a>
                         </div>
                     </div>
                     <div class="col-lg-7 d-none d-lg-block text-end">

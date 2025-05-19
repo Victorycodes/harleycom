@@ -7,22 +7,15 @@ window.Alpine = Alpine;
 Alpine.start();
 
 
-
-const logoGrid = document.getElementById('logoGrid');
+const logoSlider = document.getElementById('logoSlider');
 const imagePath = 'assets/whiteTransparentLogo.svg';
+const logosToShow = 4;
 
-for (let i = 0; i < 4; i++) {
+// Add logos twice (duplicate set for seamless loop)
+for (let i = 0; i < logosToShow * 2; i++) {
     const img = document.createElement('img');
     img.src = imagePath;
-    img.alt = '';
-
-    // Tailwind: small size on mobile, larger on md+
-    img.class = 'w-[200px] h-[60px] lg:w-[298px] lg:h-[72px]';
-
-    // Hide last 2 on mobile, show on md+
-    if (i >= 2) {
-        img.classList.add('hidden', 'md:inline');
-    }
-
-    logoGrid.appendChild(img);
+    img.alt = 'Logo';
+    img.className = 'w-[298px] h-[72px] object-contain';
+    logoSlider.appendChild(img);
 }

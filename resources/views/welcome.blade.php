@@ -62,9 +62,15 @@
         </div>
     </div>
 
-    <div class="bg-gray-900 text-white">
-        <div id="logoGrid"
-            class="grid lg:grid-cols-4 grid-cols-2 lg:gap-20 gap-10 mx-auto bg-[#FFFFFF0D] lg:mt-[15px] mt-[25px] lg:py-[30px] py-[20px]">
+    <div class="bg-gray-900 text-white overflow-hidden mt-[15px]">
+        <div class="bg-[#FFFFFF0D] py-6 lg:py-8">
+            <div class="w-full max-w-[1440px] mx-auto overflow-hidden">
+                <div class="relative">
+                    <div id="logoSlider" class="flex gap-10 w-max scrolling-logos">
+                        <!-- JS will add logos here -->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -180,7 +186,8 @@
 
     <div class="relative lg:mt-[70px] mt-[40px] lg:w-[80%] w-[95%] mx-auto">
         <h1 class="tlg:text-[60px] text-[36px] text-[#ffffff] font-bold ">Portfolio</h1>
-        <div class="bg-[linear-gradient(to_top_right,_#0C2342,_#E5002B,_#FF7700)] rounded-[56px] px-[50px] lg:py-[150px] py-[70px]">
+        <div
+            class="bg-[linear-gradient(to_top_right,_#0C2342,_#E5002B,_#FF7700)] rounded-[56px] px-[50px] lg:py-[150px] py-[70px]">
             <div class="flex justify-center">
                 <img src="assets/footerLogo.svg" class="lg:w-[534px] lg:h-[129px] w-[250px] h-[70px]" alt="">
             </div>

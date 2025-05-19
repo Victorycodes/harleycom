@@ -6,10 +6,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEOX - SEO and Digital Marketing Agency</title>
+    <title>HARLEY Digital Marketing Agency</title>
 
     <!--=====FAB ICON=======-->
-    <link rel="shortcut icon" href="assets/img/logo/title1.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/harleyIcon.svg" type="image/x-icon">
 
 
     <!--=====CSS=======-->

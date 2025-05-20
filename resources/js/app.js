@@ -16,6 +16,6 @@ for (let i = 0; i < logosToShow * 2; i++) {
     const img = document.createElement('img');
     img.src = imagePath;
     img.alt = 'Logo';
-    img.className = 'w-[298px] h-[72px] object-contain';
+    img.className = 'w-full h-full object-contain';
     logoSlider.appendChild(img);
 }

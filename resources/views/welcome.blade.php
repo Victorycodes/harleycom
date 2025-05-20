@@ -17,7 +17,7 @@
                 <h1 class="font-bold lg:text-[70px] text-[40px] text-white">
                     We create <br /> the future your <br /> mind paints.
                 </h1>
-                <p class="lg:w-[80%] w-[94%] font-normal lg:text-[16px] text-[14px] text-white lg:mt-0 mt-[16px]">
+                <p class="lg:w-[80%] w-[94%] lg:font-normal font-light lg:text-[16px] text-[14px] text-white lg:mt-0 mt-[16px]">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend felis ut fermentum bibendum.
                     Mauris mollis, elit pulvinar scelerisque lacinia, magna turpis posuere quam, in facilisis nisl nunc
                     in dui.
@@ -26,7 +26,7 @@
                 <div class="flex lg:mt-[50px] mt-[25px] lg:gap-[30px] gap-[15px]">
                     <div>
                         <button
-                            class="bg-[linear-gradient(to_right,_#E5002B,_#FF7700)] rounded-[50px] text-white lg:text-[20px] text-[14px] font-normal lg:py-[15px] py-[12px] lg:px-[30px] px-[20px]">
+                            class="bg-[linear-gradient(to_right,_#E5002B,_#FF7700)] rounded-[50px] text-white lg:text-[20px] text-[14px] lg:font-normal font-light lg:py-[15px] py-[12px] lg:px-[30px] px-[20px]">
                             Get Started
                         </button>
                     </div>
@@ -37,7 +37,7 @@
                       rounded-full bg-[#0C2342]
                       filter blur-[150px] pointer-events-none z-[-1]">
                         </div>
-                        <p class="text-white lg:text-[15px] text-[13px] font-normal">Learn More</p>
+                        <p class="text-white lg:text-[15px] text-[13px] lg:font-normal font-light">Learn More</p>
                         <img src="assets/icons/arrow.svg" alt=""
                             class="lg:h-[48px] lg:w-[48px] w-[30px] h-[30px]" />
                     </div>
@@ -50,7 +50,7 @@
                         <img src="assets/harleyLayer.svg" alt="" class="w-[290px] h-[390px]" />
                     </div>
                     <div class="absolute top-[28px] ml-[50px]">
-                        <img src="assets/person.png" alt="" class="w-[330px] h-[420px]" />
+                        <img src="assets/person.png" alt="" class="w-[350px] h-[440px]" />
                     </div>
                     <div
                         class="absolute right-[15px] bottom-[0px] w-[350px] h-[350px]
@@ -62,11 +62,11 @@
         </div>
     </div>
 
-    <div class="bg-gray-900 text-white overflow-hidden mt-[15px]">
-        <div class="bg-[#FFFFFF0D] py-6 lg:py-8">
+    <div class="bg-gray-900 text-white overflow-hidden mt-[34px]">
+        <div class="bg-[#FFFFFF0D] xl:py-8 lg:py-6 py-4">
             <div class="w-full max-w-[1440px] mx-auto overflow-hidden">
                 <div class="relative">
-                    <div id="logoSlider" class="flex gap-10 w-max scrolling-logos">
+                    <div id="logoSlider" class="flex gap-10 scrolling-logos lg:w-[299px] w-[200px] lg:h-[72px] h-[60px]">
                         <!-- JS will add logos here -->
                     </div>
                 </div>
@@ -85,7 +85,7 @@
             <div class="lg:w-[40%] ">
                 <div class="text-[60px] text-[#ffffff] font-bold lg:ml-[120px] ml-[12px]">
                     <h1 class="lg:text-[60px] text-[36px] text-[#ffffff] font-bold ">Our Services</h1>
-                    <p class="text-[14px] lg:text-[16px] text-[#ffffff] font-normal lg:w-[500px] w-[350px]">Lorem ipsum
+                    <p class="text-[14px] lg:text-[16px] text-[#ffffff] lg:font-normal font-light lg:w-[500px] w-[350px]">Lorem ipsum
                         dolor sit amet, consectetur
                         adipiscing
                         elit. Morbi eleifend felis ut fermentum bibendum.
@@ -104,7 +104,7 @@
                     <img src="assets/harleyIcon.svg" alt="" class="w-[36px] h-[46px]" />
                     <div class="mt-[20px]">
                         <h6 class="mb-[15px] lg:text-[20px] text-[18px] font-bold text-[#ffffff]">Lorem Ipsum</h6>
-                        <p class="text-[10px] font-normal text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
+                        <p class="text-[10px] lg:font-normal font-light text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Morbi
                             eleifend felis ut fermentum bibendum.</p>
                     </div>
@@ -113,7 +113,7 @@
                     <img src="assets/harleyIcon.svg" alt="" class="w-[36px] h-[46px]" />
                     <div class="mt-[20px]">
                         <h6 class="mb-[15px] lg:text-[20px] text-[18px] font-bold text-[#ffffff]">Lorem Ipsum</h6>
-                        <p class="text-[10px] font-normal text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
+                        <p class="text-[10px] lg:font-normal font-light text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Morbi
                             eleifend felis ut fermentum bibendum.</p>
                     </div>
@@ -122,7 +122,7 @@
                     <img src="assets/harleyIcon.svg" alt="" class="w-[36px] h-[46px]" />
                     <div class="mt-[20px]">
                         <h6 class="mb-[15px] lg:text-[20px] text-[18px] font-bold text-[#ffffff]">Lorem Ipsum</h6>
-                        <p class="text-[10px] font-normal text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
+                        <p class="text-[10px] lg:font-normal font-light text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Morbi
                             eleifend felis ut fermentum bibendum.</p>
                     </div>
@@ -131,7 +131,7 @@
                     <img src="assets/harleyIcon.svg" alt="" class="w-[36px] h-[46px]" />
                     <div class="mt-[20px]">
                         <h6 class="mb-[15px] lg:text-[20px] text-[18px] font-bold text-[#ffffff]">Lorem Ipsum</h6>
-                        <p class="text-[10px] font-normal text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
+                        <p class="text-[10px] lg:font-normal font-light text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Morbi
                             eleifend felis ut fermentum bibendum.</p>
                     </div>
@@ -140,7 +140,7 @@
                     <img src="assets/harleyIcon.svg" alt="" class="w-[36px] h-[46px]" />
                     <div class="mt-[20px]">
                         <h6 class="mb-[15px] lg:text-[20px] text-[18px] font-bold text-[#ffffff]">Lorem Ipsum</h6>
-                        <p class="text-[10px] font-normal text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
+                        <p class="text-[10px] lg:font-normal font-light text-[#ffffff]">Lorem ipsum dolor sit amet, consectetur
                             adipiscing elit. Morbi
                             eleifend felis ut fermentum bibendum.</p>
                     </div>
@@ -160,23 +160,23 @@
             <div class="flex lg:flex-row flex-col justify-between items-center lg:gap-0 gap-[20px]">
                 <div class="flex flex-col items-center text-[#ffffff]">
                     <p class="lg:text-[48px] text-[36px] font-bold">100+</p>
-                    <p class="lg:text-[20px] text-[18px] font-normal">Lorem Ipsum</p>
+                    <p class="lg:text-[20px] text-[18px] lg:font-normal font-light">Lorem Ipsum</p>
                 </div>
                 <div class="flex flex-col items-center text-[#ffffff]">
                     <p class="lg:text-[48px] text-[36px] font-bold">700+</p>
-                    <p class="lg:text-[20px] text-[18px] font-normal">Lorem Ipsum</p>
+                    <p class="lg:text-[20px] text-[18px] lg:font-normal font-light">Lorem Ipsum</p>
                 </div>
                 <div class="flex flex-col items-center text-[#ffffff]">
                     <p class="lg:text-[48px] text-[36px] font-bold">2000+</p>
-                    <p class="lg:text-[20px] text-[18px] font-normal">Lorem Ipsum</p>
+                    <p class="lg:text-[20px] text-[18px] lg:font-normal font-light">Lorem Ipsum</p>
                 </div>
                 <div class="flex flex-col items-center text-[#ffffff]">
                     <p class="lg:text-[48px] text-[36px] font-bold">64</p>
-                    <p class="lg:text-[20px] text-[18px] font-normal">Lorem Ipsum</p>
+                    <p class="lg:text-[20px] text-[18px] lg:font-normal font-light">Lorem Ipsum</p>
                 </div>
                 <div>
                     <button
-                        class="bg-[linear-gradient(to_right,_#E5002B,_#FF7700)] rounded-[50px] text-white lg:text-[20px] text-[14px] font-normal lg:py-[15px] py-[12px] lg:px-[30px] px-[20px]">
+                        class="bg-[linear-gradient(to_right,_#E5002B,_#FF7700)] rounded-[50px] text-white lg:text-[20px] text-[14px] lg:font-normal font-light lg:py-[15px] py-[12px] lg:px-[30px] px-[20px]">
                         Get Started
                     </button>
                 </div>

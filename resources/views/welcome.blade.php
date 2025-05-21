@@ -66,7 +66,7 @@
         <div class="bg-[#FFFFFF0D] xl:py-8 lg:py-6 py-4">
             <div class="w-full max-w-[1440px] mx-auto overflow-hidden">
                 <div class="relative">
-                    <div id="logoSlider" class="flex gap-10 scrolling-logos lg:w-[299px] w-[200px] lg:h-[72px] h-[60px]">
+                    <div id="logoSlider" class="flex gap-10 scrolling-logos w-max lg:h-[72px] h-[60px]">
                         <!-- JS will add logos here -->
                     </div>
                 </div>

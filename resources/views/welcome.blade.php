@@ -95,7 +95,7 @@
                         dui.</p>
                 </div>
                 <div class="mt-[30px]">
-                    <img src="assets/keyboard.png" class="w-[588px] h-[364px]" alt="">
+                    <img src="assets/keyboard.png" class="lg:w-[588px] lg:h-[364px] w-[290px] h-[180px]" alt="">
                 </div>
             </div>
             <div class="lg:w-[60%] grid lg:grid-cols-3 grid-cols-2 lg:mr-[120px] lg:ml-[20px] w-[95%] mx-auto">
